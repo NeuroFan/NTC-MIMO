@@ -1,4 +1,3 @@
-
 # Note:
 
 The following are notes that collected during prepration of a research work done by the author of the page. Note all information here included in the research paper. The information might vary with the ones presented in the paper since this page is not kept updated. However, the data here might shed more light and attract more researchers to the field and hopefully use our results.
@@ -11,6 +10,7 @@ Please find a video demonstrating adaptivity of our method with variations such 
 
     https://youtu.be/5klGBAmTmdA
 # SPICE and Behavioral simulation of systolic array 
+The SPICE modeling initially used specifically for a systolic array here: https://github.com/NeuroFan/SystolicArray
 
 # Systolic Array with in low voltage
 
